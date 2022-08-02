@@ -1,4 +1,4 @@
-ale-py==0.7.5
+appdirs==1.4.4
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 asttokens==2.0.5
@@ -55,6 +55,7 @@ parso==0.8.3
 patsy==0.5.2
 pickleshare==0.7.5
 Pillow==9.2.0
+pooch==1.6.0
 prometheus-client==0.14.1
 prompt-toolkit==3.0.30
 psutil==5.9.1
