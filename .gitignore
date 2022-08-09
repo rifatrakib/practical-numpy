@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# large zip files from https://nih.gov/
+data/x-ray-data/*.tar.gz
+data/images
+data/images/*
